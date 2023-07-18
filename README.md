@@ -72,8 +72,6 @@
 
 [bermuda](https://junguler.github.io/listen_to_radio-volna/things/bermuda.html) 
 
-[bhutan](https://junguler.github.io/listen_to_radio-volna/things/bhutan.html) 
-
 [blues](https://junguler.github.io/listen_to_radio-volna/things/blues.html) 
 
 [bolivia](https://junguler.github.io/listen_to_radio-volna/things/bolivia.html) 
@@ -621,10 +619,6 @@
 # w 
 
 [world](https://junguler.github.io/listen_to_radio-volna/things/world.html) 
-
-# y 
-
-[yemen](https://junguler.github.io/listen_to_radio-volna/things/yemen.html) 
 
 # z 
 
